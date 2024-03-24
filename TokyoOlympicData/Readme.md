@@ -8,7 +8,9 @@ Data Transformed using Databricks and saved as CSV files into Data Lake
 
 Transformed Data transferred to Data Lake Tables and Queried by SQL
 
-https://portal.azure.com
+
+**Azure Portal** : https://portal.azure.com
+
 
 _**References:**_
 https://github.com/darshilparmar/tokyo-olympic-azure-data-engineering-project/tree/main
