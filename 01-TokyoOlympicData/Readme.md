@@ -8,6 +8,8 @@
 
 
 ![resource_groups](https://github.com/fatihsomer/Azure/assets/40704702/4a5e6da9-aa4e-4fbc-a2fc-034bd459a3e6)
+
+
 ![raw_data](https://github.com/fatihsomer/Azure/assets/40704702/3cdefe05-9fe7-4963-b897-884a0ac431ac)
 ![transformed_data](https://github.com/fatihsomer/Azure/assets/40704702/784c6db2-5cdd-43f0-9fa8-49764a26fd1b)
 
