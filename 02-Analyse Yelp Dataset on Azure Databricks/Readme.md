@@ -11,12 +11,15 @@
 ![image](https://github.com/fatihsomer/Azure/assets/40704702/a1c4e34c-53ee-4c34-a9d9-aab286662dc7)
 
 
+
 Data read from JSON files using Azure Data Factory and transferred to Blob Storage saved as Parquet files
 
 Data Transformed, Analyzed and Queried using Databricks
 
 
 
+
 **References:**
+
 https://www.projectpro.io/project/hackerday-project/project-title/analyze-yelp-data-spark-parquet-project
 
