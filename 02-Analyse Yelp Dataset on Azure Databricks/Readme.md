@@ -17,6 +17,9 @@ Data read from JSON files using Azure Data Factory and transferred to Blob Stora
 Data Transformed, Analyzed and Queried using Databricks
 
 
+**Data:**
+
+https://www.yelp.com/dataset/download
 
 
 **References:**
