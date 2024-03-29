@@ -10,8 +10,9 @@ Data in CSV file read from Azure Blob Storage and stored into Table in Databrick
 
 Data was read from Azure Event Hub and stored in CSV files in the Databricks DBFS environment then Table were created using these CSV files.
 
-Pipeline was created in the Databricks environment and Delta live tables were created using this pipeline.
+Pipeline was created in the Databricks environment and Delta live tables were created using this pipeline. (Bronze -> Silver -> Gold)
 
+Visualized using Power BI and Delta Live Tables.
 
 
 **References:**
