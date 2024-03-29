@@ -4,6 +4,12 @@
 
 
 
+Python Code executed on Visual Studio Code and data in CSV file pushed to Azure Event Hub as Streaming Data
+
+Data in CSV file read from Azure Blob Storage and stored into Table in Databricks environment.
+
+
+
 **References:**
 
 
