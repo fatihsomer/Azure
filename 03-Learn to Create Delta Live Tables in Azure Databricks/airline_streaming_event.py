@@ -3,7 +3,7 @@ import json
 from csv import reader
 from azure.eventhub import EventHubProducerClient, EventData
 
-connection_str = 'Endpoint=sb://streamingeventhub2.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=rzs1q+a2bgXfiCgxv7cpiCoUZv4dO2stncZOGOVHq7o='
+connection_str = 'Endpoint=sb://streamingeventhub2.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=SharedAccessKey'
 eventhub_name = 'airlinehub'
 
 class Airline:
