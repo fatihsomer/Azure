@@ -8,6 +8,9 @@ Python Code executed on Visual Studio Code and data in CSV file pushed to Azure 
 
 Data in CSV file read from Azure Blob Storage and stored into Table in Databricks environment.
 
+Data was read from Azure Event Hub and stored in CSV files in the Databricks environment then Table were created using these CSV files.
+
+
 
 
 **References:**
