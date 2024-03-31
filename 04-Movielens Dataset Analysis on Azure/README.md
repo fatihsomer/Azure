@@ -16,7 +16,7 @@ Deploy Azure data factory, data pipelines and visualize the analysis.
 
 Data read from CSV files using Azure Data Factory and transferred to Data Lake
 
-Data Transformed, Analyzed and Queried using Databricks
+Data Transformed, Analyzed and Queried using Databricks and Python
 
 
 **Screenshots:**
