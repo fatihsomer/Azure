@@ -16,7 +16,9 @@ Deploy Azure data factory, data pipelines and visualize the analysis.
 
 Data read from CSV files using Azure Data Factory and transferred to Data Lake
 
-Data Transformed, Analyzed and Queried using Databricks and Python
+Data was Transformed, Analyzed and Queried using Databricks and Python
+
+Delta tables were created using CSV file upload and Queried by SQL
 
 
 **Screenshots:**
@@ -38,6 +40,15 @@ Data Transformed, Analyzed and Queried using Databricks and Python
 ![image](https://github.com/fatihsomer/Azure/assets/40704702/76c03fc0-2693-4854-949a-3cb036a99d86)
 
 ![image](https://github.com/fatihsomer/Azure/assets/40704702/06df9744-4585-41cc-bbd0-2a07b00927ed)
+
+![image](https://github.com/fatihsomer/Azure/assets/40704702/75877b06-e1d3-41ce-a214-86b0a73f2479)
+
+![image](https://github.com/fatihsomer/Azure/assets/40704702/8a0f2f73-f0ae-4913-97f5-7ec9b2f85498)
+
+![image](https://github.com/fatihsomer/Azure/assets/40704702/40e9bc44-a61c-4b5f-a297-42107b9e77fd)
+
+![image](https://github.com/fatihsomer/Azure/assets/40704702/491ec165-d096-4e64-9b3c-ab9261fbb816)
+
 
 
 **References:**
