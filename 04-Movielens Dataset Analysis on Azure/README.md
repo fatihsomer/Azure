@@ -20,6 +20,8 @@ Data was Transformed, Analyzed and Queried using Databricks and Python
 
 Delta tables were created using CSV file upload and Queried by SQL
 
+Results were saved as Delta tables
+
 
 **Screenshots:**
 
@@ -48,6 +50,10 @@ Delta tables were created using CSV file upload and Queried by SQL
 ![image](https://github.com/fatihsomer/Azure/assets/40704702/40e9bc44-a61c-4b5f-a297-42107b9e77fd)
 
 ![image](https://github.com/fatihsomer/Azure/assets/40704702/491ec165-d096-4e64-9b3c-ab9261fbb816)
+
+![image](https://github.com/fatihsomer/Azure/assets/40704702/7f0b9984-878b-478e-92ff-e35cee29fe0d)
+
+![image](https://github.com/fatihsomer/Azure/assets/40704702/c7350fd2-0bf2-4294-911a-fcd2cb4a45ea)
 
 
 
