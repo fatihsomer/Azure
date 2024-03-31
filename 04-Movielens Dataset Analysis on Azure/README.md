@@ -16,11 +16,11 @@ Deploy Azure data factory, data pipelines and visualize the analysis.
 
 Data read from CSV files using Azure Data Factory and transferred to Data Lake
 
-Data was Transformed, Analyzed and Queried using Databricks and Python
+Data was Transformed, Analyzed and Queried using Databricks and Python 
 
-Delta tables were created using CSV file upload and Queried by SQL
+Query Results were saved as Delta tables
 
-Results were saved as Delta tables
+Additionally, Delta tables were created using CSV file upload and Queried by SQL
 
 
 **Screenshots:**
