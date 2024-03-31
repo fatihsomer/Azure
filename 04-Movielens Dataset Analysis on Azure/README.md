@@ -35,6 +35,10 @@ Data Transformed, Analyzed and Queried using Databricks
 
 ![image](https://github.com/fatihsomer/Azure/assets/40704702/2683d23e-4a3a-44ab-9a49-64f42228919f)
 
+![image](https://github.com/fatihsomer/Azure/assets/40704702/76c03fc0-2693-4854-949a-3cb036a99d86)
+
+![image](https://github.com/fatihsomer/Azure/assets/40704702/06df9744-4585-41cc-bbd0-2a07b00927ed)
+
 
 **References:**
 
