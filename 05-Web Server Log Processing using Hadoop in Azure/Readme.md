@@ -61,6 +61,7 @@ Data were analyzed using Hive SQL queries
 **Data:**
 
 ftp://ita.ee.lbl.gov/traces/NASA_access_log_Jul95.gz
+
 ftp://ita.ee.lbl.gov/traces/NASA_access_log_Aug95.gz
 
 
