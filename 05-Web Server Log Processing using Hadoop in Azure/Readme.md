@@ -38,6 +38,16 @@ Data were analyzed using Hive SQL queries
 ![image](https://github.com/fatihsomer/Azure/assets/40704702/105afbaa-2b95-4c28-aca3-9471d09348f0)
 ![image](https://github.com/fatihsomer/Azure/assets/40704702/c5cd5648-b4b5-4f52-a2ad-1d7a1de1255d)
 
+![image](https://github.com/fatihsomer/Azure/assets/40704702/4e8a6dae-b9cd-470d-8a24-6b9a586eb668)
+
+![image](https://github.com/fatihsomer/Azure/assets/40704702/a5d31c30-9ca6-4e59-93a1-2f200324f9e1)
+
+![image](https://github.com/fatihsomer/Azure/assets/40704702/d81a0501-a01c-4012-a344-554bfd15ac28)
+
+![image](https://github.com/fatihsomer/Azure/assets/40704702/acb41ea3-fb02-4860-aaf4-50de55227290)
+
+
+
 ![image](https://github.com/fatihsomer/Azure/assets/40704702/3d8d26e0-dfcb-47d6-b1d4-e4a6827fcccf)
 
 ![image](https://github.com/fatihsomer/Azure/assets/40704702/4236e056-9a1f-4e08-831b-9d0b471c24ff)
