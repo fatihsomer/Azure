@@ -14,6 +14,11 @@ Hadoop, Flume, Spark and Hive to process the Web Server logs dataset to get more
 
 
 **Steps:**
+VM Ubuntu Linux server installed and configured on Azure, separate disk created for data analysis
+Apache Hadoop, Hive, Flume, Scala, Spark were installed and configured
+IntelliJ IDEA IDE was installed and configured for Scala code building to make a jar file
+Nasa web server log files transferred to Hadoop HDFS using Flume, Hive and Scala
+Data were analyzed using Hive SQL queries
 
 
 **Screenshots:**
