@@ -3,6 +3,8 @@
 
 **Architecture:**
 
+![image](https://github.com/fatihsomer/Azure/assets/40704702/0e222471-6ef9-4b0f-9a95-f64b66e2f95d)
+
 
 **Description:**
 
